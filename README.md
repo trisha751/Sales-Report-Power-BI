@@ -16,7 +16,13 @@ Created a report using the data (Data1.xslx) available in this Repo
 - Top 5 products for each shipment in their respective regions
 - Q & A question to allow users to explore the by asking human readable questions
 
+
+![page2](Photos/A2-2.png)
+
 #### Page 3:
 - Top 5 profit (in %) making products sold in East region
 - Average time taken between Order Date and Shipping Date for standard class of shipping for the East Region
 - Q & A question to allow users to explore the by asking human readable questions
+
+
+![page3](Photos/A2-3.png)
